@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "tmam:blocks/apple_glowstone_block"
+   }
+}
