@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":[
+        {
+            "item": "minecraft:quartz_block",
+            "data": 0
+        },
+        {
+            "item": "minecraft:quartz_block",
+            "data": 1
+        },
+        {
+            "item": "minecraft:quartz_block",
+            "data": 2
+        }
+        ],
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_quartzblock",
+        "count": 1
+    }
+}

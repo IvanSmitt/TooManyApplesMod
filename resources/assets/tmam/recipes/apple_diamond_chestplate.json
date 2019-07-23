@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:apple_diamond",
+            "data": 0
+        }     
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_diamond_chestplate",
+        "count": 1
+    }
+}
