@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tmam:apple_glowstone_block" }
+    }
+}
