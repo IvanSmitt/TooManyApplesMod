@@ -18,7 +18,7 @@ public class FuelBase extends Item implements IHasModel{
 	{
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.tomanyapplesmodtab);
 		this.BurnTime = BurnTime;
 		ModItems.ITEMS.add(this);
 	}
@@ -27,7 +27,7 @@ public class FuelBase extends Item implements IHasModel{
 	{
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.tomanyapplesmodtab);
 		this.BurnTime = BurnTime;
 		ModItems.ITEMS.add(this);
 		
@@ -40,7 +40,6 @@ public class FuelBase extends Item implements IHasModel{
 		
 	}
 	
-	@Override
 	public int getItemBurnTime(ItemStack itemStack)
 	{
 		return BurnTime;

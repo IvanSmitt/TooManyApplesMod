@@ -14,7 +14,7 @@ public class FoodBase extends ItemFood implements IHasModel{
 		super(amount,saturation,isAnimalFood);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.FOOD);
+		setCreativeTab(Main.tomanyapplesmodtab);
 		
 		ModItems.ITEMS.add(this);
 	}
