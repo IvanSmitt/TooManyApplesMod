@@ -3,29 +3,28 @@
     
     "pattern":
     [
-        "BB ",
-        " A ",
-        " A "
+        "BBB",
+        "BAB",
+        "BBB"
     ],
     
     "key":
     {
         "B":
         {
-            "item": "tmam:apple_diamond",
-            "data": 0
+            "item": "minecraft:slime_ball"
         },
         
         "A":
         {
-            "item": "minecraft:stick"
+            "item": "minecraft:apple"
         }
         
     },
     
     "result":
     {
-        "item": "tmam:apple_diamond_hoe",
+        "item": "tmam:apple_slime",
         "count": 1
     }
 }

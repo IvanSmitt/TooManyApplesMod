@@ -12,7 +12,7 @@
     {
         "B":
         {
-            "item": "tmam:apple_diamond",
+            "item": "tmam:bragiot",
             "data": 0
         },
         
@@ -25,7 +25,7 @@
     
     "result":
     {
-        "item": "tmam:apple_diamond_hoe",
+        "item": "tmam:bragiot_hoe",
         "count": 1
     }
 }

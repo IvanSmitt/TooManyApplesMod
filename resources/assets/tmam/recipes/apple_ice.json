@@ -3,29 +3,29 @@
     
     "pattern":
     [
-        "BB ",
-        " A ",
-        " A "
+        "BBB",
+        "BAB",
+        "BBB"
     ],
     
     "key":
     {
         "B":
         {
-            "item": "tmam:apple_diamond",
+            "item": "minecraft:ice",
             "data": 0
         },
         
         "A":
         {
-            "item": "minecraft:stick"
+            "item": "minecraft:apple"
         }
         
     },
     
     "result":
     {
-        "item": "tmam:apple_diamond_hoe",
+        "item": "tmam:apple_ice",
         "count": 1
     }
 }

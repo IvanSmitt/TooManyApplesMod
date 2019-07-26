@@ -3,29 +3,28 @@
     
     "pattern":
     [
-        "BB ",
-        " A ",
-        " A "
+        "BBB",
+        "BAB",
+        "BAB"
     ],
     
     "key":
     {
         "B":
         {
-            "item": "tmam:apple_diamond",
-            "data": 0
+            "item": "tmam:octoract"
         },
         
         "A":
         {
-            "item": "minecraft:stick"
+            "item": "minecraft:blaze_rod"
         }
         
     },
     
     "result":
     {
-        "item": "tmam:apple_diamond_hoe",
+        "item": "tmam:octoract_tool",
         "count": 1
     }
 }
