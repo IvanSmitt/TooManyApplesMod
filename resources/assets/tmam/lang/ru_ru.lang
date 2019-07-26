@@ -29,16 +29,25 @@ item.apple_quartzblock.name=Блококварцевое яблоко
 item.apple_netherrack.name=Незерритовое яблоко
 item.apple_soul_sand.name=Яблоко из песка душ
 item.apple_redstone.name=Краснокаменное яблоко
-item.apple_redstoneblock.name=Блочнокраснокаменное яблоко
+item.apple_redstoneblock.name=Блококраснокаменное яблоко
 item.apple_wool.name=Шерстяное яблоко
 
+item.apple_slime.name=Слизневое яблоко
+item.apple_slimeblock.name=Блокослизневое яблоко
+item.apple_sponge.name=Губковое яблоко
+item.apple_sand.name=Песчаное яблоко
+item.apple_ice.name=Ледяное яблоко
+item.apple_tnt.name=TNT яблоко
+
 item.bragiot.name=Брагиот
-tile.bragiot_ore_block.name=Брагиотовая руда
+item.octoract.name=Окторакт
 
 //blocks
 tile.apple_block.name=Яблочный блок
 tile.apple_glowstone_block.name=Яблочно-светокаменный блок
 tile.apple_ore_block.name=Яблочная руда
+tile.bragiot_ore_block.name=Брагиотовая руда
+tile.octoract_ore_block.name=Руда Октората
 
 //Tools
 item.apple_sword.name=Яблочный меч
@@ -59,6 +68,8 @@ item.bragiot_pickaxe.name=Брагиотовая кирка
 item.bragiot_axe.name=Брагиотовый топор
 item.bragiot_hoe.name=Брагиотовая мотыга
 
+item.octoract_tool.name=Инструмент из окторакта
+
 //Armor
 item.apple_helmet.name=Яблочный шлем
 item.apple_chestplate.name=Яблочный нагрудник
@@ -74,3 +85,11 @@ item.bragiot_helmet.name=Брагиотовый шлем
 item.bragiot_chestplate.name=Брагиотовый нагрудник
 item.bragiot_leggings.name=Брагиотовые поножи
 item.bragiot_boots.name=Брагиотовые ботинки
+
+item.octoract_helmet.name=Маска из окторакта
+item.octoract_chestplate.name=Нагрудник из окторакта
+item.octoract_leggings.name=Поножи из окторакта
+item.octoract_boots.name=Ботинки из окторакта
+
+//tabs
+itemGroup.toomanyapplesmodtab=Слишком много яблок

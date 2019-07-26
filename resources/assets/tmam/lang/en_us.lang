@@ -32,13 +32,22 @@ item.apple_redstone.name=Redstone Apple
 item.apple_redstoneblock.name=Redstone Block Apple
 item.apple_wool.name=Wool Apple
 
+item.apple_slime.name=Slime Apple
+item.apple_slimeblock.name=Slime Block Apple
+item.apple_sponge.name=Sponge Apple
+item.apple_sand.name=Sand Apple
+item.apple_ice.name=Ice Apple
+item.apple_tnt.name=TNT Apple
+
 item.bragiot.name=Bragiot
+item.octoract.name=Octoract
 
 //blocks
 tile.apple_block.name=Apple Block
 tile.apple_glowstone_block.name=Apple Glowstone Block
 tile.apple_ore_block.name=Apple Ore
 tile.bragiot_ore_block.name=Bragiot Ore
+tile.octoract_ore_block.name=Octoract Ore
 
 //Tools
 item.apple_sword.name=Apple Sword
@@ -59,6 +68,8 @@ item.bragiot_pickaxe.name=Bragiot Pickaxe
 item.bragiot_axe.name=Bragiot Axe
 item.bragiot_hoe.name=Bragiot Hoe
 
+item.octoract_tool.name=Octoract Tool
+
 //Armor
 item.apple_helmet.name=Apple Helmet
 item.apple_chestplate.name=Apple Chestplate
@@ -74,3 +85,11 @@ item.bragiot_helmet.name=Bragiot Helmet
 item.bragiot_chestplate.name=Bragiot Chestplate
 item.bragiot_leggings.name=Bragiot Leggings
 item.bragiot_boots.name=Bragiot Boots
+
+item.octoract_helmet.name=Octoract Helmet
+item.octoract_chestplate.name=Octoract Chestplate
+item.octoract_leggings.name=Octoract Leggings
+item.octoract_boots.name=Octoract Boots
+
+//tabs
+itemGroup.toomanyapplesmodtab=Too Many Apples
