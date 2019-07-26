@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tmam:octoract_ore_block" }
+    }
+}
