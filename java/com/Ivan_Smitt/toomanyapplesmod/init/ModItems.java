@@ -4,6 +4,9 @@ package com.Ivan_Smitt.toomanyapplesmod.init;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.Ivan_Smitt.toomanyapplesmod.items.AppleArrow;
+import com.Ivan_Smitt.toomanyapplesmod.items.AppleBow;
+import com.Ivan_Smitt.toomanyapplesmod.items.FinderBase;
 import com.Ivan_Smitt.toomanyapplesmod.items.FuelBase;
 import com.Ivan_Smitt.toomanyapplesmod.items.ItemBase;
 import com.Ivan_Smitt.toomanyapplesmod.items.armor.ArmorBase;
@@ -56,12 +59,21 @@ public class ModItems {
 	public static final Item BRAGIOT = new ItemBase("bragiot");
 	public static final Item OCTORACT = new ItemBase("octoract");
 	
+	
+	
 	//fuel
 	public static final Item APPLE_FRIED = new FuelBase("apple_fried",80);
 	public static final Item APPLE_COAL = new FuelBase("apple_coal",15000);
 	public static final Item APPLE_COALBLOCK = new FuelBase("apple_coalblock",160000,true);
 	
+	//Bows
+	public static final Item APPLE_BOW = new AppleBow("apple_bow");
+	public static final Item APPLE_ARROW = new AppleArrow("apple_arrow");
+	
 	//Tools
+	
+	public static final Item APPLE_FINDER = new FinderBase("apple_finder");
+	
 	public static final ItemSword APPLE_SWORD = new ToolSword("apple_sword",MATERIAL_APPLE);
 	public static final ItemSpade APPLE_SHOVEL = new ToolSpade("apple_shovel",MATERIAL_APPLE);
 	public static final ItemPickaxe APPLE_PICKAXE = new ToolPickaxe("apple_pickaxe",MATERIAL_APPLE);

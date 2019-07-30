@@ -1,5 +1,6 @@
 package com.Ivan_Smitt.toomanyapplesmod;
 
+import com.Ivan_Smitt.toomanyapplesmod.init.ModEntities;
 import com.Ivan_Smitt.toomanyapplesmod.init.ModItems;
 import com.Ivan_Smitt.toomanyapplesmod.init.ModRecipes;
 import com.Ivan_Smitt.toomanyapplesmod.proxy.CommonProxy;
@@ -34,6 +35,7 @@ public class Main {
 	public static void PreInit(FMLPreInitializationEvent event)
 	{
 		GameRegistry.registerWorldGenerator(new ModWorldGen(),3);
+		ModEntities.registerEntities();
 	}
 	
 	@EventHandler
