@@ -42,12 +42,22 @@ item.apple_tnt.name=TNT Apple
 item.bragiot.name=Bragiot
 item.octoract.name=Octoract
 
+item.apple_bow.name=Apple Bow
+item.apple_arrow.name=Apple Arrow
+
+item.apple_finder.name=Apple Finder
+
+//Entities
+entity.apple_arrow.name=Apple Arrow
+
 //blocks
 tile.apple_block.name=Apple Block
 tile.apple_glowstone_block.name=Apple Glowstone Block
 tile.apple_ore_block.name=Apple Ore
 tile.bragiot_ore_block.name=Bragiot Ore
 tile.octoract_ore_block.name=Octoract Ore
+tile.golden_apple_ore.name=Apple ore
+tile.diamond_apple_ore.name=Apple ore
 
 //Tools
 item.apple_sword.name=Apple Sword

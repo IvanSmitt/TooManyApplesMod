@@ -42,12 +42,23 @@ item.apple_tnt.name=TNT яблоко
 item.bragiot.name=Брагиот
 item.octoract.name=Окторакт
 
+
+item.apple_bow.name=Яблочный лук
+item.apple_arrow.name=Яблочная стрела
+
+item.apple_finder.name=Яблочный искатель
+
+//Entities
+entity.apple_arrow.name=Яблочная стрела
+
 //blocks
 tile.apple_block.name=Яблочный блок
 tile.apple_glowstone_block.name=Яблочно-светокаменный блок
 tile.apple_ore_block.name=Яблочная руда
 tile.bragiot_ore_block.name=Брагиотовая руда
 tile.octoract_ore_block.name=Руда Октората
+tile.golden_apple_ore.name=Яблочная руда
+tile.diamond_apple_ore.name=Яблочная руда
 
 //Tools
 item.apple_sword.name=Яблочный меч
