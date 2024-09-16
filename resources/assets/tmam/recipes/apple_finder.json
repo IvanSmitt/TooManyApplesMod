@@ -1,0 +1,46 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UR ",
+        "BAD",
+        "UR "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:bragiot"
+        },
+        
+        "A":
+        {
+            "item": "tmam:apple_diamond"
+        },
+        
+        "U":
+        {
+            "item": "minecraft:iron_block"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:redstone_block"
+        }
+        ,
+        
+        "D":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_finder",
+        "count": 1
+    }
+}

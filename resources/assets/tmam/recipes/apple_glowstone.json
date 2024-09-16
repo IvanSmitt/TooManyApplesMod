@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_glowstone",
+        "count": 1
+    }
+}

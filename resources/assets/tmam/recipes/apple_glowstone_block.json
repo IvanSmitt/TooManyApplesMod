@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " B ",
+        "BAB",
+        " B "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:apple_glowstone"
+        } ,
+         "A":
+        {
+            "item": "tmam:apple_block"
+        }
+            
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_glowstone_block",
+        "count": 16
+    }
+}

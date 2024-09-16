@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:octoract",
+            "data": 0
+        }     
+    },
+    
+    "result":
+    {
+        "item": "tmam:octoract_helmet",
+        "count": 1
+    }
+}

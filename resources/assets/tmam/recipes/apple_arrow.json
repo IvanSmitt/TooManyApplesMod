@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  A",
+        " B ",
+        "C  "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:feather"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_arrow",
+        "count": 1
+    }
+}

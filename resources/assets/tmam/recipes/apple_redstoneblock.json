@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:redstone_block"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_redstoneblock",
+        "count": 1
+    }
+}

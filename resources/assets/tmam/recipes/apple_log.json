@@ -1,0 +1,52 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":[
+        {
+            "item": "minecraft:log",
+            "data":0
+        },
+         {
+            "item": "minecraft:log",
+            "data":1
+        },
+         {
+            "item": "minecraft:log",
+            "data":2
+        },
+         {
+            "item": "minecraft:log",
+            "data":3
+        },
+         {
+            "item": "minecraft:log2",
+            "data":0
+        },
+         {
+            "item": "minecraft:log2",
+            "data":1
+        }
+        ],
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_log",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BAB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:octoract"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:blaze_rod"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:octoract_tool",
+        "count": 1
+    }
+}

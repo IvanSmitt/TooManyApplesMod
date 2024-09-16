@@ -1,0 +1,106 @@
+
+//Items
+item.apple_dirt.name=Земляное яблоко
+item.apple_cobblestone.name=Булыжниковое яблоко
+item.apple_stone.name=Каменное яблоко
+item.apple_obsidian.name=Обсидиановое яблоко
+item.apple_glowstone.name=Светокаменное яблоко
+item.apple_glowstoneblock.name=Блокосветокаменное яблоко
+item.apple_super.name=Супер яблоко
+item.apple_bedrock.name=Бедроковое яблоко
+item.apple_brick.name=Кирпичное яблоко
+item.apple_brickblock.name=Блококирпичное яблоко
+item.apple_fried.name=Жареное яблоко
+item.apple_coal.name=Угольное яблоко
+item.apple_coalblock.name=Блокоугольное яблоко
+item.apple_diamond.name=Алмазное яблоко
+item.apple_diamondblock.name=Блокоалмазное яблоко
+item.apple_emerald.name=Изумрудное яблоко
+item.apple_emeraldblock.name=Блокоизумрудное яблоко
+item.apple_endstone.name=Эндерняковое яблоко
+item.apple_iron.name=Железное Яблоко
+item.apple_ironblock.name=Блокожелезное Яблоко
+item.apple_lapis.name=Лазуритовое Яблоко
+item.apple_lapisblock.name=Блоколазуритовое Яблоко
+item.apple_planks.name=Яблоко из досок
+item.apple_log.name=Яблоко из бревен
+item.apple_quartz.name=Кварцевое яблоко
+item.apple_quartzblock.name=Блококварцевое яблоко
+item.apple_netherrack.name=Незерритовое яблоко
+item.apple_soul_sand.name=Яблоко из песка душ
+item.apple_redstone.name=Краснокаменное яблоко
+item.apple_redstoneblock.name=Блококраснокаменное яблоко
+item.apple_wool.name=Шерстяное яблоко
+
+item.apple_slime.name=Слизневое яблоко
+item.apple_slimeblock.name=Блокослизневое яблоко
+item.apple_sponge.name=Губковое яблоко
+item.apple_sand.name=Песчаное яблоко
+item.apple_ice.name=Ледяное яблоко
+item.apple_tnt.name=TNT яблоко
+
+item.bragiot.name=Брагиот
+item.octoract.name=Окторакт
+
+
+item.apple_bow.name=Яблочный лук
+item.apple_arrow.name=Яблочная стрела
+
+item.apple_finder.name=Яблочный искатель
+
+//Entities
+entity.apple_arrow.name=Яблочная стрела
+
+//blocks
+tile.apple_block.name=Яблочный блок
+tile.apple_glowstone_block.name=Яблочно-светокаменный блок
+tile.apple_ore_block.name=Яблочная руда
+tile.bragiot_ore_block.name=Брагиотовая руда
+tile.octoract_ore_block.name=Руда Октората
+tile.golden_apple_ore.name=Яблочная руда
+tile.diamond_apple_ore.name=Яблочная руда
+
+//Tools
+item.apple_sword.name=Яблочный меч
+item.apple_shovel.name=Яблочная лопата
+item.apple_pickaxe.name=Яблочная кирка
+item.apple_axe.name=Яблочный топор
+item.apple_hoe.name=Яблочная мотыга
+
+item.apple_diamond_sword.name=Яблочноалмазный меч
+item.apple_diamond_shovel.name=Яблочноалмазная лопата
+item.apple_diamond_pickaxe.name=Яблочноалмазная кирка
+item.apple_diamond_axe.name=Яблочноалмазный топор
+item.apple_diamond_hoe.name=Яблочноалмазная мотыга
+
+item.bragiot_sword.name=Брагиотовый меч
+item.bragiot_shovel.name=Брагиотовая лопата
+item.bragiot_pickaxe.name=Брагиотовая кирка
+item.bragiot_axe.name=Брагиотовый топор
+item.bragiot_hoe.name=Брагиотовая мотыга
+
+item.octoract_tool.name=Инструмент из окторакта
+
+//Armor
+item.apple_helmet.name=Яблочный шлем
+item.apple_chestplate.name=Яблочный нагрудник
+item.apple_leggings.name=Яблочные поножи
+item.apple_boots.name=Яблочные ботинки
+
+item.apple_diamond_helmet.name=Яблочноалмазный шлем
+item.apple_diamond_chestplate.name=Яблочноалмазный нагрудник
+item.apple_diamond_leggings.name=Яблочноалмазные поножи
+item.apple_diamond_boots.name=Яблочноалмазные ботинки
+
+item.bragiot_helmet.name=Брагиотовый шлем
+item.bragiot_chestplate.name=Брагиотовый нагрудник
+item.bragiot_leggings.name=Брагиотовые поножи
+item.bragiot_boots.name=Брагиотовые ботинки
+
+item.octoract_helmet.name=Маска из окторакта
+item.octoract_chestplate.name=Нагрудник из окторакта
+item.octoract_leggings.name=Поножи из окторакта
+item.octoract_boots.name=Ботинки из окторакта
+
+//tabs
+itemGroup.toomanyapplesmodtab=Слишком много яблок

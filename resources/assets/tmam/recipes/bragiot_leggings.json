@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:bragiot",
+            "data": 0
+        }     
+    },
+    
+    "result":
+    {
+        "item": "tmam:bragiot_leggings",
+        "count": 1
+    }
+}

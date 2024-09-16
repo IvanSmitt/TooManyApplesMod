@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:slime_ball"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_slime",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:bedrock"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_bedrock",
+        "count": 1
+    }
+}

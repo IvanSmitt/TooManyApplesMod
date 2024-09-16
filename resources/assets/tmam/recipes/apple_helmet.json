@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:apple",
+            "data": 0
+        }     
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_helmet",
+        "count": 1
+    }
+}

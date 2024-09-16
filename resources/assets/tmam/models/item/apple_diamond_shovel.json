@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "tmam:items/apple_diamond_shovel"
+   }
+}

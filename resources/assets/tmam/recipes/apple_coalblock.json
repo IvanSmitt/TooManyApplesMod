@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:coal_block"
+        },
+        
+        "A":
+        {
+            "item": "tmam:apple_fried"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_coalblock",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tmam:bragiot",
+            "data": 0
+        }     
+    },
+    
+    "result":
+    {
+        "item": "tmam:bragiot_boots",
+        "count": 1
+    }
+}

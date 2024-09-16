@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:apple",
+            "data": 0
+        }     
+    },
+    
+    "result":
+    {
+        "item": "tmam:apple_leggings",
+        "count": 1
+    }
+}
